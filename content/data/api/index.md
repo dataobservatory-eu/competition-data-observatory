@@ -38,6 +38,8 @@ Our observatory has a new data API which allows access to our daily refreshing o
 
 All the data and the metadata are available as open data, without database use restrictions, under the [ODbL](https://opendatacommons.org/licenses/odbl/) license.
 
+The **Competition Data Observatory** temporarily shares an API with the [Economy Data Observatory](https://economy.dataobservatory.eu/), which serves as an incubator for similar economy-oriented reproducible research resources.
+
 
 ## Indicator table {#indicator-table}
 

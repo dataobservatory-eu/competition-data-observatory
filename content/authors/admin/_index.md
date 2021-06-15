@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Economy Data Observatory
+title: Competition Data Observatory
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,9 +52,9 @@ email: ""
 highlight_name: false
 ---
 
-Big data and automation create new inequalities and injustices and has a potential to create a jobless growth. Our Economy Observatory is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
+Our Competition Data Observatory is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
 
-Our observatory is monitoring the European economy to protect the consumers and the small companies from unfair competition both from data and knowledge monopolization and robotization. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
+Our observatory is monitoring the certain segments of the European economy, and develops tools for computational antitrust in Europe. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
 
 We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We would like to map data between economic activities (NACE), antitrust markets, and sub-national, regional, metropolitian area data.
 
@@ -63,8 +63,6 @@ We would like to create early-warning, risk, economic effect, and impact indicat
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
 {{< icon name="phone" pack="fas" >}}Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
-
-Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #2.  We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the [economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), particularly the challenge we are focusing on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Our [collaboration is open](/#contributors) for individuals, citizens scientists, research institutes, NGOS, companies.
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/presentations/EDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}
 
