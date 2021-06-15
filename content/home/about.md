@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Economy Data Observatory
+title: Competition Data Observatory
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
