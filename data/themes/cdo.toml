@@ -5,7 +5,7 @@ name = "CDO"
 light = true
 
 # Primary
-primary = "#DB001C"
+primary = "#E4007F"
 
 # Menu
 menu_primary = "#fff"
@@ -19,5 +19,5 @@ home_section_even = "rgb(247, 247, 247)"
 
 # #bbdefb
 [dark]
-  link = "#E4007F"
-  link_hover = "#E4007F"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
