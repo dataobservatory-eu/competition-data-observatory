@@ -133,7 +133,7 @@ anyone actually being informed by it.” [2]
     with other data, or easy to join into databases, together with
     standardized metadata.
     
-{{< figure src="media/img/slides/automated_observatory_value_chain.jpg" caption="Our service flow and value chain" numbered="false" >}}
+{{< figure src="/media/img/slides/automated_observatory_value_chain.jpg" caption="Our service flow and value chain" numbered="false" >}}
 
 ## FAQ {#open-data-faq}
 
