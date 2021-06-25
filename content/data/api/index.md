@@ -36,9 +36,9 @@ slides: ""
 
 Our observatory has a new data API which allows access to our daily refreshing open data. You can access the API via [api.economy.dataobservatory.eu](http://api.economy.dataobservatory.eu/) (*apologies for the ugly, temporary subdomain masking!*).
 
-All the data and the metadata are available as open data, without database use restrictions, under the [ODbL](https://opendatacommons.org/licenses/odbl/) license.
+All the data and the metadata are available as open data, without database use restrictions, under the [ODbL](https://opendatacommons.org/licenses/odbl/) license. However, the metadata contents are not finalized yet. We are currently working on a solution that applies the [FAIR Guiding Principles for scientific data management and stewardship](http://www.nature.com/articles/sdata201618), and fulfills the mandatory requirements of the Dublic Core metadata standards and at the same time the [mandatory requirements](https://support.datacite.org/docs/datacite-metadata-schema-v44-mandatory-properties), and most of the [recommended requirements](https://support.datacite.org/docs/datacite-metadata-schema-v44-recommended-and-optional-properties) of DataCite. These changes will be effective before 1 July 2021.
 
-The **Competition Data Observatory** temporarily shares an API with the [Economy Data Observatory](https://economy.dataobservatory.eu/), which serves as an incubator for similar economy-oriented reproducible research resources.
+The **Competition Data Observatory** temporarily shares an API with the [Economy Data Observatory](https://economy.dataobservatory.eu/), which serves as an incubator for similar economy-oriented reproducible research resources. 
 
 
 ## Indicator table {#indicator-table}
