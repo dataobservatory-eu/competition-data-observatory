@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
-- icon: fa-lightbulb-on
+- icon: lightbulb-on
   icon_pack: fas
   name: Get Inspired
   url: https://contributors.dataobservatory.eu/data-curators.html#get-inspired

@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
-- icon: fa-database
+- icon: database
   icon_pack: fas
   name: Try API
   url: https://api.economy.dataobservatory.eu/
