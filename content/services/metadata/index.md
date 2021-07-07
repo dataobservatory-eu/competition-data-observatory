@@ -22,6 +22,14 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/dataobservatory-eu/dataobservatory/
+- icon: book-open
+  icon_pack: fas
+  name: Documentation
+  url: https://r.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""

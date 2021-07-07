@@ -23,6 +23,14 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
+- icon: fa-database
+  icon_pack: fas
+  name: Try API
+  url: https://api.economy.dataobservatory.eu/
+- icon: book-open
+  icon_pack: fas
+  name: Documentation
+  url: https://competition-data-observatory.netlify.app/#data
 url_code: ""
 url_pdf: ""
 url_slides: ""
