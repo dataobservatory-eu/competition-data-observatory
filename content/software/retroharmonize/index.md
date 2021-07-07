@@ -45,10 +45,11 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
-  url: https://github.com/rOpenGov/retroharmonize
+  url: https://github.com/rOpenGov/retroharmonize/
 - icon: book-open
   icon_pack: fas
   name: Documentation
+  url: https://retroharmonize.dataobservatory.eu/
 - icon: twitter
   icon_pack: fab
   name: Follow
