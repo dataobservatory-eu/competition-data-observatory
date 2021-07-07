@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-We provide retrospecitve, ex post, and ex ante survey harmonization to our partners.
+We provide retrospecitve, *ex post*, and *ex ante* survey harmonization to our partners.
 
 1. The aim of retrospective survey harmonization is to pool data from pre-existing surveys made with a similar methodology in different points in time and different countries or territories.  Ex post survey harmonization is in a way a passive form of pooling research funding because you can utilize information from surveying that were made on somebody else’s expense. 
 
