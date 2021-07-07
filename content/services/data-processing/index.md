@@ -1,17 +1,16 @@
 ---
 title: Data Processing
-summary: Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less     errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an      NGO does not have to reprocess the very same data twice. 
+summary: We create high value key business and policy evaluation indicators. Scientific proofs require the combination of correctly matching, formatting, and verifying controlled pieces of data. Our data comes from verified and legal sources, with information about use rights and a complete history. You can always take a look at the processing code, too. We do not deal in blood diamonds.
 tags:
 - data-processing
-
-date: "2021-07-07T00:00:00Z"
+date: "2021-01-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: "Uncut Diamond, ©[Dave Fischer](https://commons.wikimedia.org/wiki/File:Uncut-diamond.jpg)"
-  focal_point: Center
+  caption: "The Open Pit of the Udachnaya Diamond Mine, ©[Stapanov Alexander](https://commons.wikimedia.org/w/index.php?curid=350061)"
+  focal_point: Smart
 
 links:
 - icon: twitter
@@ -32,11 +31,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: trustworthy-ai
+slides: data-curation
 ---
 
+*Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less     errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an      NGO does not have to reprocess the very same data twice**
 
-
-Photo credits:
-- Diamond polisher: © [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037), Wikimedia Commons, 2008.
-- Map: © [N.](https://unsplash.com/photos/RFId0_7kep4?utm_source=unsplash), Unplash licence, 2016.
