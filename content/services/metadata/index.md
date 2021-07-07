@@ -3,9 +3,6 @@ title: Metadata
 summary: Adding metadata exponentially increases the value of data. Did somebody already adjust old data to conform to constantly changing geographic boundaries? What are some practical ways of combining satellite sensory data with my organization's records? And do I have the right to do so? Metadata logs the history of data, providing instructions on how to reuse it, also setting the terms of use. We automate this labor-intensive process applying the FAIR data concept.
 tags:
 - metadata
-- codebooks
-- documentation
-- retroharmonize
 
 date: "2021-07-07T00:00:00Z"
 
