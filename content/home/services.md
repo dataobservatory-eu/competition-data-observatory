@@ -29,7 +29,7 @@ content:
     tag: '*'
   - name: Open Data
     tag: Open Data
-  - name: AUtomated Documentation, Codebooks
+  - name: Documentation & Codebooks
     tag: metadata
   - name: Data API
     tag: open-data, 
@@ -45,7 +45,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
