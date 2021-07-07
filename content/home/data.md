@@ -27,7 +27,9 @@ content:
   filter_button:
   - name: API
     tag: api
-  - name: PSI, FOI and open gov
+  - name: Surveys
+    tag: surveys
+  - name: OpenGov
     tag: open-gov
   - name: Open Science
     tag: open-science

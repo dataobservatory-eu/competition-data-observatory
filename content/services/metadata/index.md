@@ -10,7 +10,7 @@ date: "2021-07-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Diamond Polisher"
+  caption: "Diamond Polisher,  © [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037)"
   focal_point: Center
 
 links:
@@ -51,7 +51,7 @@ Organizations pay many times for the same, repeated work, because these boring t
 
 Updating descriptive metadata, such as bibliographic citation files, descriptions and sources to data files downloaded from the internet, versioning spreadsheet documents and presentations is usually a hated and often neglected task withing organization, and rightly so: these boring and error-prone tasks are best left to computers. 
 
-{{< figure src="/media/img/gems/n-RFId0_7kep4-unsplash.jpg" caption="Already adjusted spreadsheets are re-adjusted and re-checked. Hours are spent on looking for the right document with the rigth version. Duplicates multiply. Already downloaded data is downloaded again, and miscategorized, again. Finding the data without map is a treasure hunt." numbered="false" >}}
+{{< figure src="/media/img/gems/n-RFId0_7kep4-unsplash.jpg" caption="Already adjusted spreadsheets are re-adjusted and re-checked. Hours are spent on looking for the right document with the rigth version. Duplicates multiply. Already downloaded data is downloaded again, and miscategorized, again. Finding the data without map is a treasure hunt. Photo: © [N.](https://unsplash.com/photos/RFId0_7kep4?utm_source=unsplash)" numbered="false" >}}
 
 The lack of time and resources spend on documentation over time reduces reusability and significantly increases data processing and supervision or auditing costs. 
 
@@ -71,11 +71,5 @@ Small organizations often cannot afford to have data engineers and data scientis
 The manual data processing and manipulation is very error prone and makes the use of complex and high value resources, such as harmonized surveys or symmetric input-output tables, to name two important source we deal with, impossible to use.  The use of these high-value data sources often requires tens of thousands of data processing steps: no human can do it faultlessly.
 
 What is even more problematic that simple applications for analysis do not provide a log of these manipulations’ steps: pulling over a column with the mouse, renaming a row, adding a zero to an empty cell. This makes senior supervisory oversight and external audit very costly. 
+
 Our data comes with full history: all changes are visible, and we even open the code or algorithm that processed the raw data.  Your analysts can still use their favourite spreadsheet or statistical software application, but they can start from a clean, tidy dataset, with all data wrangling, currency and unit conversion, imputation and other low-priority but important tasks done and logged.
-
-
-
-
-Photo credits:
-- Diamond polisher: © [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037), Wikimedia Commons, 2008.
-- Map: © [N.](https://unsplash.com/photos/RFId0_7kep4?utm_source=unsplash), Unplash licence, 2016.
