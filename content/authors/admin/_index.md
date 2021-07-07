@@ -52,6 +52,25 @@ email: ""
 highlight_name: false
 ---
 
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="even">
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1533580909002-a2f298d005eb.jpg" caption="[Is There Value in It?](/data/open-gov/#is-there-value-left-in-open-data) </br>If it’s money on the street, why nobody’s picking it up?" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1605143185650-77944b152643.jpg" caption="[Datasets Should Work Together to Give Information](/data/open-gov/#data-integration)</br>Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
+</tr>
+</tbody>
+</table>
+
+
 Our Competition Data Observatory is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
 
 Our observatory is monitoring the certain segments of the European economy, and develops tools for computational antitrust in Europe. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
