@@ -30,7 +30,7 @@ content:
   - name: Open Data
     tag: open-data
   - name: Data Curation
-    tag: data-curation
+    tag: curation
   - name: Documentation & Codebooks
     tag: metadata
   - name: Surveys
