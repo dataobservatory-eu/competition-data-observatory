@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Open Data
-    tag: open-data
+  - name: Data-as-Service
+    tag: daas
   - name: Data Curation
     tag: curation
   - name: Documentation & Codebooks
@@ -64,7 +64,7 @@ design:
 <td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data Curation](/data/open-gov/#data-integration)</br>Data sits everywhere and it is not easy to find even at home." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/Uncut-diamond_Edit.jpg" caption="[Professional Data Processing](/data/open-gov/#is-there-value-left-in-open-data)</br>Uncut diamonds need to be polished. Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/Diamond_Polisher.jpg" caption="[Metadata: Documentation & Codebooks](/services/metadata/)</br>Adding metadata exponentially increases the value of data." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data API](/data/open-gov/#open-data-problems)</br>" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/data/open-gov/#open-data-problems)</br>Reusable, easy-to-import, interoperable, always fresh data in tidy formats." numbered="false" >}}</td>
 </tr>
 </tbody>
 </table>
