@@ -43,6 +43,23 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/rOpenGov/iotables/
+- icon: book-open
+  icon_pack: fas
+  name: Documentation
+  url: https://iotables.dataobservatory.eu/
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
