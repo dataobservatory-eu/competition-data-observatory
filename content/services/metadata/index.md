@@ -10,10 +10,14 @@ date: "2021-07-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Diamond Polisher,  © [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037)"
+  caption: "Diamond Polisher,  ©[Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037)"
   focal_point: Center
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/rOpenGov/retroharmonize
 - icon: twitter
   icon_pack: fab
   name: Follow
