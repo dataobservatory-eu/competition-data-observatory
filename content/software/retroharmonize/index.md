@@ -41,6 +41,15 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
 url_pdf: ''
 url_code: ''
 url_dataset: ''
