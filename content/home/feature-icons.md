@@ -4,7 +4,7 @@
 widget: featurette
 
 #Deactive for now 
-active = false
+active: false
 
 # This file represents a page section.
 headless: true
