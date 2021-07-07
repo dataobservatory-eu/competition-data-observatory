@@ -10,11 +10,11 @@ headless: true
 weight: 20
 
 title: Services
-subtitle: ''
+subtitle: 'Automated Data Services'
 
 content:
   # Page type to display. E.g. project.
-  page_type: service
+  page_type: services
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: Open Data
     tag: Open Data
-  - name: Trustworthy AI
-    tag: AI
-  - name: Observatories
-    tag: observatory
+  - name: AUtomated Documentation, Codebooks
+    tag: metadata
+  - name: Data API
+    tag: open-data, 
   - name: Reproducible Research
     tag: reproducible
 
