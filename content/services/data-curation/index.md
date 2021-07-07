@@ -17,6 +17,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
 url_code: ""
 url_pdf: ""
 url_slides: ""
