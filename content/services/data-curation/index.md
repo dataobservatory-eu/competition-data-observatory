@@ -9,7 +9,7 @@ date: "2021-01-21T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption: "The Open Pit of the Udachnaya Diamond Mine"
   focal_point: Smart
 
 links:
@@ -41,3 +41,6 @@ Every day, thousands of new datasets become available via the EU open data regim
 The creative and cultural industries often do not participate in government statistics programs because these industries are typically comprised of microenterprises that are exempted from statistical reporting and that file only simplified financial statements and tax returns. This means that finding the appropriate private or public data sources for creative and cultural industry uses requires particularly good data maps.
 
 `Data curation` means that we are continuously mapping potential data sources and sending requests to download and quality test the most current data sources. Our CEEMID project has produced several thousand indicators, of which a few dozen are available in our [Demo Music Observatory](/project/music-observatory/).If you have specific data needs for a scientific research, policy evaluation, or business project, we can find and provide the most suitable, most current, and best value data for analysis or for [ethical AI applications](/service/trustworthy-ai/).
+
+Photo credit:
+- The open pit of the Udachnaya Diamond Mine, © [Stapanov Alexander](https://commons.wikimedia.org/w/index.php?curid=350061), Wikimedia Commons, 2004.
