@@ -1,6 +1,6 @@
 ---
 title: Data Curation
-summary: We find the relevant data for your business or policy scorecard, market or scientific research project. We are constantly mapping, testing, validating new data sources in the creative and cultural industries.
+summary: We create high value key business and policy evaluation indicators. Scientific proofs require the combination of correctly matching, formatting, and verifying controlled pieces of data. Our data comes from verified and legal sources, with information about use rights and a complete history. You can always take a look at the processing code, too. We do not deal in blood diamonds.
 tags:
 - Data Curation
 date: "2021-01-21T00:00:00Z"
