@@ -63,7 +63,7 @@ Our Competition Data Observatory is a fully automated, open source, open data ob
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data Curation](/data/open-gov/#data-integration)</br>Data sits everywhere and it is not easy to find even at home." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data](/services/data-as-service/)</br> [Curation](/services/data-as-service/)</br>Data sits everywhere and it is not easy to find even at home." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/Uncut-diamond_Edit.jpg" caption="[Professional Data Processing](/data/open-gov/#is-there-value-left-in-open-data)</br>Uncut diamonds need to be polished. Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/Diamond_Polisher.jpg" caption="[Metadata: Documentation & Codebooks](/services/metadata/)</br>Adding metadata exponentially increases the value of data." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/data/open-gov/#open-data-problems)</br>Reusable, easy-to-import, interoperable, always fresh data in tidy formats." numbered="false" >}}</td>
