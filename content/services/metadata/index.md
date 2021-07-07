@@ -50,12 +50,16 @@ Organizations pay many times for the same, repeated work, because these boring t
 
 Updating descriptive metadata, such as bibliographic citation files, descriptions and sources to data files downloaded from the internet, versioning spreadsheet documents and presentations is usually a hated and often neglected task withing organization, and rightly so: these boring and error-prone tasks are best left to computers. 
 
-The lack of time and resources spend on documentation over time reduces reusability and significantly increases data processing and supervision or auditing costs. Already adjusted spreadsheets are re-adjusted and re-checked.  Already downloaded data is downloaded again, and miscategorized, again. 
-
-- [x] Our metadata is compliant with the [Dublin Core Cross-Domain Attribute Set](https://www.dublincore.org/specifications/dublin-core/cross-domain-attribute/) metadata standard, but we use different formatting. We offer simple re-formatting from the richer DataCite to Dublin Core for interoperability with a wider set of data sources.
-- [x] We use all [mandatory](https://support.datacite.org/docs/datacite-metadata-schema-v44-mandatory-properties) DataCite metadata fields, all the [the recommended and optional](https://support.datacite.org/docs/datacite-metadata-schema-v44-recommended-and-optional-properties) ones. 
-
 {{< figure src="/media/img/gems/n-RFId0_7kep4-unsplash.jpg" caption="Already adjusted spreadsheets are re-adjusted and re-checked. Hours are spent on looking for the right document with the rigth version. Duplicates multiply. Already downloaded data is downloaded again, and miscategorized, again. Finding the data without map is a treasure hunt." numbered="false" >}}
+
+The lack of time and resources spend on documentation over time reduces reusability and significantly increases data processing and supervision or auditing costs. 
+
+- [x] Our observatory metadata is compliant with the [Dublin Core Cross-Domain Attribute Set](https://www.dublincore.org/specifications/dublin-core/cross-domain-attribute/) metadata standard, but we use different formatting. We offer simple re-formatting from the richer DataCite to Dublin Core for interoperability with a wider set of data sources.
+- [x] We use all [mandatory](https://support.datacite.org/docs/datacite-metadata-schema-v44-mandatory-properties) DataCite metadata fields, all the [the recommended and optional](https://support.datacite.org/docs/datacite-metadata-schema-v44-recommended-and-optional-properties) ones. 
+- [x] It complies with the tidy data principles.  
+
+In other words: very easy to import into your databases, or join with other databases, and the information is easy to find.  Corrections, updates can automatically managed.
+
 
 ## What happened with the data before?
 
@@ -72,5 +76,5 @@ Our data comes with full history: all changes are visible, and we even open the 
 
 
 Photo credits:
-- Diamond polisher: © [Andere Andre](Diamond Polisher), Wikimedia Commons, 2008.
+- Diamond polisher: © [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037), Wikimedia Commons, 2008.
 - Map: © [N.](https://unsplash.com/photos/RFId0_7kep4?utm_source=unsplash), Unplash licence, 2016.
