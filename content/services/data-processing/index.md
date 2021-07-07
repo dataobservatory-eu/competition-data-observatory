@@ -10,7 +10,7 @@ date: "2021-07-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Uncut Diamond, ©Dave Fischer"
+  caption: "Uncut Diamond, ©[Dave Fischer](https://commons.wikimedia.org/wiki/File:Uncut-diamond.jpg)"
   focal_point: Center
 
 links:
