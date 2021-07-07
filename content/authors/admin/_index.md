@@ -54,6 +54,12 @@ highlight_name: false
 
 <table>
 <tbody>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 40%" />
+<col style="width: 40%" />
+<col style="width: 10%" />
+</colgroup>
 <tr class="odd">
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
