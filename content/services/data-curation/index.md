@@ -2,7 +2,7 @@
 title: Data Curation
 summary: We create high value key business and policy evaluation indicators. Scientific proofs require the combination of correctly matching, formatting, and verifying controlled pieces of data. Our data comes from verified and legal sources, with information about use rights and a complete history. You can always take a look at the processing code, too. We do not deal in blood diamonds.
 tags:
-- Data Curation
+- data-curation
 date: "2021-01-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

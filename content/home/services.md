@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: Open Data
     tag: open-data
+  - name: Data Curation
+    tag: data-curation
   - name: Documentation & Codebooks
     tag: metadata
-  - name: Data API
-    tag: Data API
   - name: Surveys
     tag: surveys
 
