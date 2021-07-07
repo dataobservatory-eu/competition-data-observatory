@@ -64,7 +64,7 @@ design:
 <td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data API](/data/open-gov/#open-data-problems)</br>" numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/Diamond_Polisher.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)</br>Adding metadata exponentially increases the value of data." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/img/gems/Uncut-diamond_Edit.jpg" caption="[Is There Value in It?](/data/open-gov/#is-there-value-left-in-open-data)</br>Data is only potential information, raw and unprocessed" numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data Curation](/data/open-gov/#data-integration)</br>Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data Curation](/data/open-gov/#data-integration)</br>Data sits everywhere and it is not easy to find even at home." numbered="false" >}}</td>
 </tr>
 </tbody>
 </table>
