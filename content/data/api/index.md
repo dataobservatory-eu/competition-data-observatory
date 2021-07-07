@@ -1,9 +1,10 @@
 ---
-title: API
-summary: Get data from the Economy Data Observatory via our API
+title: Data API
+summary: Get data from the Competition Data Observatory via our API
 tags:
 - api
 date: "2021-06-01T11:00:00Z"
+lastmod: "2021-07-07T11:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
