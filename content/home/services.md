@@ -33,8 +33,8 @@ content:
     tag: Metadata
   - name: Data API
     tag: Data API
-  - name: Reproducible Research
-    tag: reproducible
+  - name: Surveys
+    tag: surveys
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
