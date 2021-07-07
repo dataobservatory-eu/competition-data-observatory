@@ -27,14 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Data-as-Service
-    tag: daas
   - name: Data Curation
     tag: curation
+  - name: Data Processing
+    tag: data-processing
   - name: Documentation & Codebooks
     tag: metadata
-  - name: Surveys
-    tag: surveys
+  - name: Data-as-Service
+    tag: daas
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
