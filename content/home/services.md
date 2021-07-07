@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Open Data
-    tag: Open Data
+    tag: open-data
   - name: Documentation & Codebooks
     tag: Metadata
   - name: Data API
