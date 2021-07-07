@@ -10,7 +10,7 @@ date: "2021-07-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "Diamond Polisher"
+  caption: "Uncut Diamond, ©Dave Fischer"
   focal_point: Center
 
 links:
