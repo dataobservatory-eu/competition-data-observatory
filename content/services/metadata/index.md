@@ -1,8 +1,12 @@
 ---
 title: Metadata
-summary: We follow the ethical guidelines set up the by the European Union for trustworthy AI that is transparent, validated, and free of discrimination.  We create ethical recommendation systems or help the validation and assessment of third-party systems to avoid undetected biases. We believe that AI-driven sales bots should comply with competition and consumer protection rules just like the human salesforce.
+summary: Adding metadata exponentially increases the value of data. Did your region add a new town to its boundaries? How do you adjust old data to conform to constantly changing geographic boundaries? What are some practical ways of combining satellite sensory data with my organization's records? And do I have the right to do so? Metadata logs the history of data, providing instructions on how to reuse it, also setting the terms of use. We automate this labor-intensive process applying the FAIR data concept.
 tags:
-- AI
+- metadata
+- codebooks
+- documentation
+- retroharmonize
+
 date: "2021-07-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
