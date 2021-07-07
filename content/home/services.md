@@ -30,7 +30,7 @@ content:
   - name: Open Data
     tag: open-data
   - name: Documentation & Codebooks
-    tag: Metadata
+    tag: metadata
   - name: Data API
     tag: Data API
   - name: Surveys
