@@ -50,3 +50,21 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">{{< figure src="/media/img/gems/Udachnaya_pipe.jpg" caption="[Data](/services/data-curation/)</br> [Curation](/services/data-curation/)</br>Data sits everywhere and it is not easy to find even at home. Our curators know where to dig." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Uncut-diamond_Edit.jpg" caption="[Professional Data Processing](/data/open-gov/#is-there-value-left-in-open-data)</br>Uncut diamonds need to be polished. Data is only potential information, raw and unprocessed." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/Diamond_Polisher.jpg" caption="[Metadata: Documentation & Codebooks](/services/metadata/)</br>Adding FAIR metadata exponentially increases the value of data. We use DataCite and SDMX statistical coding." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/services/data-as-service/)</br></br>Reusable, easy-to-import, interoperable, always fresh data in tidy formats with a modern API." numbered="false" >}}</td>
+</tr>
+</tbody>
+</table>
+
