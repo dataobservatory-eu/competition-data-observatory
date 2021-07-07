@@ -1,6 +1,6 @@
 ---
 title: Data Processing
-summary: Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an NGO does not have to reprocess the very same data twice. 
+summary: Data analysts spend 80 percent of their time on data processing, even though computers can perform these task much faster, with far less errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an NGO does not have to reprocess the very same data twice. 
 tags:
 - data-processing
 
