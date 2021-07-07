@@ -30,9 +30,9 @@ content:
   - name: Open Data
     tag: Open Data
   - name: Documentation & Codebooks
-    tag: metadata
+    tag: Metadata
   - name: Data API
-    tag: open-data, 
+    tag: Data API
   - name: Reproducible Research
     tag: reproducible
 
