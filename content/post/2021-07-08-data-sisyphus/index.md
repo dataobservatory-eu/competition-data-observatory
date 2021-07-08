@@ -11,7 +11,18 @@ tags = ["metadata","data-as-service"]
 
 summary = "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
 
-projects = ["eu-datathon_2021"]
+projects = ""
+
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
 
 # Featured image
 [image]
@@ -26,7 +37,7 @@ projects = ["eu-datathon_2021"]
   preview_only = true
 
 +++
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.jpg" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
 
 *When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is an intermediate format of a spreadsheet file, and which is the final, checked, approved by a senior manager?*
 
