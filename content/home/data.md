@@ -27,6 +27,10 @@ content:
   filter_button:
   - name: API
     tag: api
+  - name: Data 
+    tag: observatory-data
+  - name: Metadata
+    tag: metadata
   - name: Surveys
     tag: surveys
   - name: OpenGov
