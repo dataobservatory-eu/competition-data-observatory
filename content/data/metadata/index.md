@@ -16,6 +16,7 @@ authors:
 image:
   caption: 
   focal_point: Smart
+  preview_only = true
 
 url_code: ""
 url_pdf: ""

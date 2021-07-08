@@ -16,6 +16,7 @@ authors:
 image:
   caption: 
   focal_point: Smart
+  preview_only = true
 
 links:
 - icon: twitter
@@ -68,3 +69,7 @@ The [metadata table](http://52.4.54.69/database/metadata) contains various data 
 
 {{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="api.economy.dataobservatory.eu: processing metadata" numbered="true" >}}
 
+
+## Authoritative Copies 
+
+[Greendeal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)

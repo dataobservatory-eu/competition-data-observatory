@@ -13,17 +13,6 @@ summary = "Sisyphus was punished by being forced to roll an immense boulder up a
 
 projects = ""
 
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/EconDataObs
-- icon: linkedin
-  icon_pack: fab
-  name: Connect
-  url: https://www.linkedin.com/company/78562153/
-
 # Featured image
 [image]
   # Caption (optional)
