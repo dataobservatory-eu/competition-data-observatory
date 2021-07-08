@@ -25,18 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: API
+  - name: Data API
     tag: api
-  - name: Data 
-    tag: observatory-data
   - name: Metadata
     tag: metadata
   - name: Surveys
     tag: surveys
-  - name: OpenGov
+  - name: Open Data
     tag: open-gov
-  - name: Open Science
-    tag: open-science
   - name: Data Sharing
     tag: data-sharing
 
