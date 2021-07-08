@@ -48,7 +48,6 @@ Metadata is a hidden destroyer of the competitiveness of corporate or academic r
 
 Undocumented data is hardly informative – it may be a page in a book, a file in an obsolete file format on a governmental server, an Excel sheet that you do not remember to have checked for updates.  Most data are useless, because we do not know how it can inform us, or we do not know if we can trust it.  The processing can be a daunting task, not to mention the most boring and often neglected documentation duties after the dataset is final and pronounced error-free by the person in charge of quality control. 
 
-
 ## Our observatory automatically processes and documents the data {#observatory-metadata-services}
 
 The good news about documentation and data validation costs is that they can be shared.  If many users need GDP/capita data from all over the world in euros, then it is enough if only one entity, a data observatory, collects all GDP and population data expresed in dollars, korunas, and euros, and makes sure that the latest data is correctly translated to euros, and then correctly divided by the latest population figures. These task are error-prone,and should not be repeaeted by every data journalist, NGO employee, PhD student or junior analyst.  This is one of the services of our data observatory.
@@ -68,6 +67,8 @@ While humans are much better at analysing the information and human agency is re
 ## The value of metadata {#value-of-metadata}
 
 Metadata is often more valuable and more costly to make than the data itself, yet it remains an elusive concept for senior or financial management.  Metadata is information about how to correctly use the data and has no value without the data itself.  Data acquisition, such as buying from a data vendor, or paying an opinion polling company, or external data consultants appears among the material costs, but metadata is never sold alone, and you do not see its cost.  
+
+In most cases, the reason why [there is no gold rush for open data](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/) is that fact that while the EU member states release billions of euros' worth data for free, or at very low cost, annually, it comes without proper metadata. 
 
 <td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/services/data-as-service/)</br></br>Reusable, legal, easy-to-import, interoperable, always fresh data in tidy formats with a modern API." numbered="false" >}}</td>
 
