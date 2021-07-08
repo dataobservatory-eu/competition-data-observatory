@@ -8,9 +8,9 @@ summary: Many countries in the world allow access to a vast array of information
     reviewable and reproducible, which implies open access.
 
 tags:
-- psi
-- open-gov
-- foi
+- open-data
+- FOI
+- PSI
 
 date: "2021-05-16T00:00:00Z"
 lastmod: "2021-06-25T15:00:00"

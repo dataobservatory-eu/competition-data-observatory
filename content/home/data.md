@@ -32,7 +32,7 @@ content:
   - name: Surveys
     tag: surveys
   - name: Open Data
-    tag: open-gov
+    tag: open-data
   - name: Data Sharing
     tag: data-sharing
 
