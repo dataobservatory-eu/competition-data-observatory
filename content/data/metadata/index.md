@@ -1,8 +1,9 @@
 ---
 title: Metadata
-summary: Uncut diamonds need to be cut, polished, and you have to make sure that they come from a legal source. Data is similar: it needs to be tidied up, checked and documented before use.
+summary: Uncut diamonds need to be cut, polished, and you have to make sure that they come from a legal source.
 tags:
 - metadata
+
 date: "2021-06-01T11:00:00Z"
 lastmod: "2021-07-08T09:10:00Z"
 
@@ -11,7 +12,6 @@ external_link: ""
 
 authors:
 - daniel_antal
-- botond_vitos
 
 image:
   caption: 
