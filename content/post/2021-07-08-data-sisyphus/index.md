@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["metadata","data-as-service"]
+tags = ["metadata","data-as-service", "api"]
 
 summary = "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
 
@@ -30,15 +30,15 @@ projects = ""
 
 *When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is an intermediate format of a spreadsheet file, and which is the final, checked, approved by a senior manager?*
 
-Big data creates inequality and injustice. On aspect of this inequality is the cost of data processing and documentation – a greatly underestimated, and usually not reported cost item.   In small organizations, where there are no separate data science and data engineering roles, data is usually supposed to be processed and documented by (junior) analysts or researchers.  This a very important source of the gap between Big Tech and them: the data usually ends up very expensive, ill-formatted, and usually the documentation steps are completely omitted.
+Big data creates inequality and injustice. On aspect of this inequality is the cost of data processing and documentation – a greatly underestimated, and usually not reported cost item. In small organizations, where there are no separate data science and data engineering roles, data is usually supposed to be processed and documented by (junior) analysts or researchers.  This a very important source of the gap between Big Tech and them: the data usually ends up very expensive, ill-formatted, not readable by computers that use machine learning and AI. Usually the documentation steps are completely omitted.
 
 > “Data is potential information, analogous to potential energy: work is required to release it.” -- Jeffrey Pomerantz
 
-Metadata, which is information about the history of the data, and information how it can be technically and legally reused, is hidden cost item. Cheap or low-quality external data comes with poor or no metadata, and small organizations lack the resources to add high-quality metadata to their datasets. However, this only perpetuates the problem.
+Metadata, which is information about the history of the data, and information how it can be technically and legally reused, has a hidden cost. Cheap or low-quality external data comes with poor or no metadata, and small organizations lack the resources to add high-quality metadata to their datasets. However, this only perpetuates the problem.
 
 ## The hidden cost item behind the unbillable hours {#metadata-unbillable-hours}
 
-As we have shown with our research partners, such metadata problems are not unique to data analysis.  Independent artists and small labels are suffering on music or book sales platforms, because their copyrighted content is not well documented.  If you automatically document tens of thousands of songs or datasets, the documentation cost is very small per item. If you, do it manually, the cost may be higher than the expected revenue from the song, or the total cost of the dataset itself.
+As we have shown with our research partners, such metadata problems are not unique to data analysis.  Independent artists and small labels are suffering on music or book sales platforms, because their copyrighted content is not well documented.  If you automatically document tens of thousands of songs or datasets, the documentation cost is very small per item. If you, do it manually, the cost may be higher than the expected revenue from the song, or the total cost of the dataset itself. (See our research consortiums' preprint paper: [Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies](https://dataandlyrics.com/publication/european_visibilitiy_2021/))
 
 In the short run, small consultancies, NGOs, or as a matter of fact, musicians, seem to logically give up on high-quality documentation and logging.  In the long run, this has two devastating consequences: computers, such as machine learning algorithms cannot read their documents, data, songs.  And as memory fades, the ill-documented resources need to be re-created, re-checked, reformatted.  Often, they are even hard to find on your internal server or laptop archive.
 
