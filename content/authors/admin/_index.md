@@ -54,24 +54,6 @@ highlight_name: false
 
 Our Competition Data Observatory is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
 
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/icons/dmo_avatar.png" caption="[Digital Music Observatory](/services/data-curation/)</br>Our first observatory, with seven years of data sharing history, a model for the European Music Observatory." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/cdo_avatar.png" caption="[Competition Data Observatory](/data/open-gov/#is-there-value-left-in-open-data)</br>Our youngest, early-stage prototype observatory for computation antitrust." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/gdo_avatar.png" caption="[Green Deal Data Observatory](/services/metadata/)</br>An ambitious project to connect environmental sensory data, political and policy survey data with socio-economic indicators." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/edo_avatar.png" caption="[Economy Data Observatory](/services/data-as-service/)</br>An incubator for socio-economic data observatories. Its first offspring is the Competition Data Observatory." numbered="false" >}}</td>
-</tr>
-</tbody>
-</table>
-
 Our observatory is monitoring the certain segments of the European economy, and develops tools for computational antitrust in Europe. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy.
 
 We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We would like to map data between economic activities (NACE), antitrust markets, and sub-national, regional, metropolitian area data.
