@@ -64,10 +64,10 @@ Our Competition Data Observatory is a fully automated, open source, open data ob
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/icon/cdo_avatar.png" caption="[Digital Music Observatory](/services/data-curation/)</br>Our first observatory, with seven years of data sharing history, a model for the European Music Observatory." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icon/cdo_avatar.png" caption="[Competition Data Observatory](/data/open-gov/#is-there-value-left-in-open-data)</brOur youngest, early-stage prototype observatory for computation antitrust." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icon/gdo_avatar.png" caption="[Green Deal Data Observatory](/services/metadata/)</br>An ambitious project to connect environmental sensory data, political and policy survey data with socio-economic indicators." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icon/edo_avatar.png" caption="[Economy Data Observatory](/services/data-as-service/)</br></br>An incubator for socio-economic data observatories. Its first offspring is the Competition Data Observatory." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/icons/cdo_avatar.png" caption="[Digital Music Observatory](/services/data-curation/)</br>Our first observatory, with seven years of data sharing history, a model for the European Music Observatory." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/icons/cdo_avatar.png" caption="[Competition Data Observatory](/data/open-gov/#is-there-value-left-in-open-data)</brOur youngest, early-stage prototype observatory for computation antitrust." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/icons/gdo_avatar.png" caption="[Green Deal Data Observatory](/services/metadata/)</br>An ambitious project to connect environmental sensory data, political and policy survey data with socio-economic indicators." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/icons/edo_avatar.png" caption="[Economy Data Observatory](/services/data-as-service/)</br></br>An incubator for socio-economic data observatories. Its first offspring is the Competition Data Observatory." numbered="false" >}}</td>
 </tr>
 </tbody>
 </table>
