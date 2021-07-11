@@ -1,6 +1,6 @@
 ---
 title: Data API
-summary: Get data from our APIs
+summary: Get data from the Competition Data Observatory via our API
 tags:
 - api
 date: "2021-06-01T11:00:00Z"
@@ -27,7 +27,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
-- icon: telescope
+- icon: globe
   icon_pack: fas
   name: Economy Data Observatory
   url: https://economy.dataobservatory.eu/
