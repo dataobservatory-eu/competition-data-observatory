@@ -23,6 +23,18 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
+- icon: telescope
+  icon_pack: fas
+  name: Economy Data Observatory
+  url: https://economy.dataobservatory.eu/
+- icon: database
+  icon_pack: fas
+  name: Try API
+  url: https://api.econommy.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
