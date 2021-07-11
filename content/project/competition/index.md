@@ -24,7 +24,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/78562153
-- icon: fa-globe
+- icon: globe
   icon_pack: fas
   link: https://dataobservatory.eu/#observatories
 
