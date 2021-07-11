@@ -5,7 +5,7 @@
 # Why
 
 title: Competition Data Observatory  # Website name
-baseurl: 'competition.dataobservatory.eu' # Website URL
+baseurl: 'https:://competition.dataobservatory.eu' # Website URL
 copyright: '© {year} Daniel Antal' # Footer text, e.g. '© {year} Me'
 
 ############################
