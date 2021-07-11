@@ -1,6 +1,6 @@
 ---
 title: Data API
-summary: Get data from the Competition Data Observatory via our API
+summary: Get data from our APIs
 tags:
 - api
 date: "2021-06-01T11:00:00Z"
