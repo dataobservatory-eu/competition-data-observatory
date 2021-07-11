@@ -191,28 +191,19 @@
     <loc>competition.dataobservatory.eu/data/metadata/</loc>
     <lastmod>2021-07-08T09:10:00+00:00</lastmod>
   </url><url>
-    <loc>competition.dataobservatory.eu/authors/andres-garcia-molina/</loc>
-    <lastmod>2021-05-26T15:00:00+02:00</lastmod>
+    <loc>competition.dataobservatory.eu/project/competition/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>competition.dataobservatory.eu/tag/competition/</loc>
-    <lastmod>2021-05-26T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>competition.dataobservatory.eu/tag/data-altruism/</loc>
-    <lastmod>2021-05-26T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>competition.dataobservatory.eu/tag/data-observatory/</loc>
-    <lastmod>2021-05-26T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>competition.dataobservatory.eu/post/2021-05-21-eu-datathon-2021/</loc>
-    <lastmod>2021-05-26T15:00:00+02:00</lastmod>
-  </url><url>
-    <loc>competition.dataobservatory.eu/project/competition/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>competition.dataobservatory.eu/tag/competitiveness/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>competition.dataobservatory.eu/data/data-sharing/</loc>
+    <lastmod>2021-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>competition.dataobservatory.eu/tag/data-altruism/</loc>
     <lastmod>2021-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>competition.dataobservatory.eu/tag/data-sharing/</loc>
@@ -249,6 +240,9 @@
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>competition.dataobservatory.eu/authors/admin/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>competition.dataobservatory.eu/tag/data-observatory/</loc>
     <lastmod>2021-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>competition.dataobservatory.eu/project/eu-datathon_2021/</loc>
