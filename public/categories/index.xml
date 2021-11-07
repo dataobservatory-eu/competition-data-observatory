@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Competition Data Observatory</title>
-    <link>competition.dataobservatory.eu/categories/</link>
-      <atom:link href="competition.dataobservatory.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https:://competition.dataobservatory.eu/categories/</link>
+      <atom:link href="https:://competition.dataobservatory.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Daniel Antal</copyright><lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/competition.dataobservatory.eu/media/icon_hu0c1ec6266a1ecab2cac6e14f26d78b39_24445_512x512_fill_lanczos_center_2.png</url>
+      <url>https:://competition.dataobservatory.eu/media/icon_hu0c1ec6266a1ecab2cac6e14f26d78b39_24445_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>competition.dataobservatory.eu/categories/</link>
+      <link>https:://competition.dataobservatory.eu/categories/</link>
     </image>
     
   </channel>
