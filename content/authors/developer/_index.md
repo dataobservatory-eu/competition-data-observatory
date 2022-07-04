@@ -22,10 +22,10 @@ organizations:
 bio: We are looking for (open-source) collaborators that want to use their technical skillset to further our open data and reproducible research-based approach.
 
 topics:
-  - data journalism
-  - social media
-  - data activism
-  - climate change
+  - R programming language
+  - Shiny applications
+  - Open-source software
+  - Open Data
 
 education:
   courses:
@@ -49,7 +49,7 @@ social:
   link: https://keybase.io/team/reprexcommunity
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/EconDataObs
+  link: https://twitter.com/dataandlyrics
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu
@@ -63,39 +63,44 @@ user_groups:
   - join us
 ---
 
-*Help us develop our automated data observatory as a developer. We are looking for collaborators that want to use their technical skillset to further our open data and reproducible research-based approach.*
+*Our observatory is currently technically maintained by [Reprex BV](https://reprex.nl/), an early stage Dutch-American data science startup specialized on open collaborations with open data and open-source data solutions.  We are looking for contributor, either as recognized, unpaid, open-source contributors, or as granted and paid contributors when funding available.*
 
+## R developer(s) {#r-developer}
 
-## Technical Skillset {#technical-skillset-developer}
+We are looking for intermediate or advanced R users with a passion for open data and open science for the maintenance of our CRAN-released R packages and the development of further packages. We are pursuing a hybrid model, providing the R community with open-source packages, and engaging in paid work that utilizes this software in commercial or academic environments.
 
-You should have at least one of the following capabilities:
+Our ideal candidate(s) are
+a) at least intermediate-level R programmers or possess domain-specific knowledge relevant to our packages, or
 
-- You are experienced in writing code in any of the R, Python (data collection) or Go language (website automation), and document it in markdown.
+b) advanced in R programming and agnostic to actual packages
 
-- You are experienced in web technologies, particularly HTML, CSS, and web scraping.
+c) excited to maintain and develop one or more of our packages
 
-- You have an intermediate-to-advanced knowledge of working with pandoc, rmarkdown and bookdown (for our long-form automated documentation.)
+All of our packages follow the modernization of the R language and are built on rlang and vctrs. All the packages use the tidyverse as a dependency, which creates a consistent user interface (i.e. dplyr, tidyr, tidyselect.)
 
-- You are experienced with static websites made with hugo (for our website automation.)
+### Packages
 
-- You are familiar with Datasette, or API engine (which is written in the Python language and uses SQLite.)
+-[iotables](https://iotables.dataobservatory.eu/): an R package for reproducible input-output analysis, economic, and environmental impact assessment. The domain specific knowledge is input-output economics, multiplier analysis, and environmental impact analysis. A working knowledge of SNA or an interest in macro-finance is a plus. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in banking, insurance, music industry, and policy design.
 
-- You are experienced with implementing new statistical methodology in the R language. While our data collection is mixed in Python and R, our statistical validation is made entirely in R.
+- [retroharmonize](https://retroharmonize.dataobservatory.eu/): an R package for retrospective survey harmonization and survey recycling. The domain specific knowledge is an interest in international, multi-language surveys, longitudinal surveys, and the reuse of survey data. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in survey harmonization, data integration, and survey design. 
 
-- Creating RShiny applications (we do not have one yet, but we plan to make them.)
+- [regions](https://regions.dataobservatory.eu/): an R package for adjusting sub-national boundaries for the making of regional statistics.  While the U.S. has relatively stable sub-national boundaries (the US postal codes), most nations change their internal boundaries very frequently. Currently, regions tracks these changes in Europe, but our package could and should be extended to all ISO-conforming sub-national boundaries globally.  An ideal domain-specific interest is geography, cartography, and/or small-area statistics. The package is currently not developed actively, but we expect it to be developed in a small-area statistics context, or for surveying withing a regional component.  
 
-## Basic Requirements {#technical-requirements-developer}
+We are also contributing to a range of packages relevant for music analysis, open data access and open science data access and we are planning the release of new open source and non-open-source products.
 
-- You are able to pick up and solve and issue on Github - this is a must. 
+We are looking for individual(s) who can resolve issues via Github. Time commitments are flexible and compensation is commensurate with experience and skill.
 
-- Make sure that you read the [Contributors Covenant](https://www.contributor-covenant.org/). You must make this [pledge](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation. Participating in our data observatories requires everybody to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. It's better this way for you and for us!
+## Shiny developer {#shiny-developer}
 
-- Make sure that you have and [ORCiD ID](https://orcid.org/).  This is a standard identification for scientific publications. We need your numeric ORCiD ID.
+We are looking for a contract-based Shiny developer who can create engaging, user-friendly multi-language Shiny interfaces to our R products. We are interested in working with candidates with experience in Shiny development and/or deployment skills, in particular, the ability to dockerize and deploy in the cloud. Currently we deploy on AWS and Netlify, but potentially we may need to deploy on other cloud servers.
 
-- Make sure that you have a [Zenodo account](https://zenodo.org/) which is connected to your [ORCiD ID](https://orcid.org/).  This enables you to publish data under your name. If you curate data for our observatories, you will be the indicator's first author, and depending on what processes help you, the author of the (scientific) code that helps you calculate the values will be your co-author.
+Our Shiny applications have multiple users: 
+- Music organizations and music researchers connected to our [Digital Music Observatory](https://music.dataobservatory.eu/)
+- Sustainable finance, sustainable reporting, and climate mitigation policy experts related to our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/)
+- Antitrust experts, antitrust authorities, and merger analysts associated with our [Competition Data Observatory](https://competition.dataobservatory.eu/)
+- Various creative industry stakeholders related to our [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/), mainly related to book publishing and film production.
+- Some of our applications are expected to be able to communicate with various Rest APIs, e.g.: the Eurostat and Spotify Rest APIs.
 
-- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements. Best if you fill it out with Notepad, TextEdit, Vim or other clean text editor, but you can also send it back as an rtf file.
+Our applications must work with several language; buttons, alternate texts, and descriptions must be parameterized and available for localization. The visual elements must follow simple visual structures and a unified colour palette.
 
-- If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
-
-More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/).
+Get in touch with us on [Keybase](https://keybase.io/team/reprexcommunity) or in [email](https://reprex.nl/#contact).
